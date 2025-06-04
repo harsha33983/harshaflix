@@ -1,4 +1,4 @@
-# Streamflix - Netflix-Inspired Streaming Platform
+# Streamflix - movie Streaming Platform
 
 A modern, responsive streaming platform inspired by Netflix, built with React, TypeScript, Tailwind CSS, and Firebase. The application fetches movie and TV show data from The Movie Database (TMDB) API.
 
